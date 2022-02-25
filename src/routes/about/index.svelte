@@ -11,7 +11,7 @@
     Repellendus cupiditate aliquid quam magni. Laudantium, laboriosam quibusdam. Provident, quae
     incidunt! Aspernatur, vel?
   </p>
-  <a href="/hihi">View Hihi</a>
+  <a href="/hihi">View HI~~~</a>
   <a href="/">Home</a>
 </div>
 

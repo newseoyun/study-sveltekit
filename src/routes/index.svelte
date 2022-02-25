@@ -4,7 +4,7 @@
 <div class="index">
   <h2>Welcome!</h2>
   <a href="/about">About</a>
-  <a href="/hihi">Hihi</a>
+  <a href="/hihi">HI~~~</a>
   <br><br>
   <a href="/hello">HELLO 폴더유</a>
 </div>
