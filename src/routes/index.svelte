@@ -6,7 +6,7 @@
   <a href="/about">About</a>
   <a href="/hihi">HI~~~</a>
   <br /><br />
-  <a href="/hello">HELLO 폴더유</a>
+  <a href="/hello">HELLO</a>
 </div>
 
 <style>
