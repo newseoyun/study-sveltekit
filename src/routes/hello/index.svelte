@@ -13,7 +13,7 @@
   </p>
   <a href="../about">View About</a>
   <a href="../about">View HI HI</a>
-  <br><br>
+  <br /><br />
   <a href="/">Home</a>
 </div>
 
